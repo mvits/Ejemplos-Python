@@ -1,5 +1,5 @@
 a = 1000
-a = 1000L
+#a = 1000L
 
 # Numeros Reales
 
@@ -16,23 +16,23 @@ c = 45
 d = 60
 
 #Suma
-print a + b 
+print (a + b )
 
 #Resta
-print c - b 
+print (c - b) 
 
 #Multiplicacion
-print d * c
+print (d * c)
 
 #Exponente
-print c ** 2
+print (c ** 2)
 
 #Division
-print float(c)/ a
+print (float(c)/ a)
 
 #Division Entera
-print c / a
+print (c / a)
 
 #Modulo 
-print 7%3
+print (7%3)
 

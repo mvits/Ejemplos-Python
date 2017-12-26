@@ -7,8 +7,8 @@ phr = 'le \n mie \n parole'
 phrs = "le \t mie \tparole"
 
 # Carateres de escape \n  \t
-print phr
-print phrs
+print (phr)
+print (phrs)
 
 # Comillas Triple
 
@@ -23,23 +23,23 @@ Ciao buongiorno 4
 .
 Ciao buongiorno n  """
 
-print phrsc
+print (phrsc)
 
 # Tipo de Variable 
-print type(phr)
+print (type(phr))
 
 
 #Repeticion y Cadenas
 cadena = "Il gioco \n" * 3
 
-print cadena
+print (cadena)
 
 
 cadena = "Il gioco \n" * 3
 
 cadena_1 = "Vita"
 
-print cadena + cadena_1
+print (cadena + cadena_1)
 
 
 
@@ -56,6 +56,6 @@ bOr = True or False
 bNot = not True  
 
 
-print bAnd
-print bOr
-print bNot  
+print (bAnd)
+print (bOr)
+print (bNot)  
